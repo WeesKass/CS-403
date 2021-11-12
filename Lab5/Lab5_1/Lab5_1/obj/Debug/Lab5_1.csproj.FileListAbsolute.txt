@@ -1,0 +1,11 @@
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\bin\Debug\Lab5_1.exe.config
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\bin\Debug\Lab5_1.exe
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\bin\Debug\Lab5_1.pdb
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.AssemblyReference.cache
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.Form1.resources
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.Properties.Resources.resources
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.GenerateResource.cache
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.exe
+C:\Users\tkasenov\source\repos\CS-403\Lab5\Lab5_1\Lab5_1\obj\Debug\Lab5_1.pdb
